@@ -73,8 +73,8 @@ Become comfortable enough with Linux that I can:
 
 | Lab | Topic                       | Status     |
 | --- | --------------------------- | ---------- |
-| 001 | Meet the Linux System       | 🚧 Current |
-| 002 | Filesystem Navigation       | ⏳          |
+| 001 | Meet the Linux System       | ✅ Done     |
+| 002 | Filesystem Navigation       | 🚧 Current  |
 | 003 | Users & Groups              | ⏳          |
 | 004 | Permissions & Ownership     | ⏳          |
 | 005 | Processes                   | ⏳          |
