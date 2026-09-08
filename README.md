@@ -74,8 +74,8 @@ Become comfortable enough with Linux that I can:
 | Lab | Topic                       | Status     |
 | --- | --------------------------- | ---------- |
 | 001 | Meet the Linux System       | ✅ Done     |
-| 002 | Filesystem Navigation       | 🚧 Current  |
-| 003 | Users & Groups              | ⏳          |
+| 002 | Filesystem Navigation       | ✅ Done     |
+| 003 | Users & Groups              | 🚧 Current  |
 | 004 | Permissions & Ownership     | ⏳          |
 | 005 | Processes                   | ⏳          |
 | 006 | Services & systemd          | ⏳          |
