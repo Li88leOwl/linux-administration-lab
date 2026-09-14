@@ -76,9 +76,9 @@ Become comfortable enough with Linux that I can:
 | 001 | Meet the Linux System       | ✅ Done     |
 | 002 | Filesystem Navigation       | ✅ Done     |
 | 003 | Users & Groups              | ✅ Done     |
-| 004 | Permissions & Ownership     | 🚧 Current  |
-| 005 | Processes                   | ⏳          |
-| 006 | Services & systemd          | ⏳          |
+| 004 | Permissions & Ownership     | ✅ Done     |
+| 005 | Processes                   | ✅ Done     |
+| 006 | Services & systemd          | 🚧 Current  |
 | 007 | Package Management          | ⏳          |
 | 008 | Storage & Filesystems       | ⏳          |
 | 009 | Linux Networking            | ⏳          |
