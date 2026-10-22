@@ -1,4 +1,4 @@
-# 🐧 Lab 004 — Linux Processes
+# 🐧 Lab 004 & 005 — Linux Processes
 
 > A Linux system is never really "doing nothing." Even when the screen looks quiet, processes are being created, scheduled, paused, resumed, put to sleep, terminated, and monitored underneath.
 
