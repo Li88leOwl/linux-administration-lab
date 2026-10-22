@@ -78,8 +78,8 @@ Become comfortable enough with Linux that I can:
 | 003 | Users & Groups              | ✅ Done     |
 | 004 | Permissions & Ownership     | ✅ Done     |
 | 005 | Processes                   | ✅ Done     |
-| 006 | Services & systemd          | 🚧 Current  |
-| 007 | Package Management          | ⏳          |
+| 006 | Services & systemd          | ✅ Done     |
+| 007 | Package Management          | 🚧 Current  |
 | 008 | Storage & Filesystems       | ⏳          |
 | 009 | Linux Networking            | ⏳          |
 | 010 | SSH & Remote Administration | ⏳          |
