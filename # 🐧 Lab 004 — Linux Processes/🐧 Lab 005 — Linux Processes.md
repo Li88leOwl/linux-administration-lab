@@ -1,4 +1,4 @@
-# 🐧 Lab 004 — Linux Processes
+# 🐧 Lab 005 — Linux Processes
 
 > A Linux system is never really "doing nothing." Even when the screen looks quiet, processes are being created, scheduled, paused, resumed, put to sleep, terminated, and monitored underneath.
 
@@ -8,7 +8,7 @@
 
 The previous labs built the foundation for understanding a Linux machine. Lab 001 covered moving around the system and interacting with the shell. Lab 002 covered the filesystem and explained where Linux keeps configuration, logs, runtime information, devices, temporary data, and process information. Lab 003 introduced users, groups, ownership, permissions, `sudo`, and the idea that Linux constantly evaluates **who is attempting an action and whether that identity should be allowed to perform it**.
 
-Lab 004 moves into something more dynamic:
+Lab 005 moves into something more dynamic:
 
 > **What is actually running on the machine right now?**
 
